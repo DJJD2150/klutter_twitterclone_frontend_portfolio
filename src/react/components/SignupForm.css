@@ -1,0 +1,21 @@
+#signup-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.signup-form-wrapper {
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

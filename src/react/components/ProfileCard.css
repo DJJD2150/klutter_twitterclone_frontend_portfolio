@@ -1,0 +1,31 @@
+.wrapper {
+  width: 350px;
+  margin: 0 auto;
+  position: relative;
+  padding-top: 60px;
+  margin-top: 20px;
+}
+
+#avatar {
+  width: 135px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+#card {
+  width: 500px;
+  padding-top: 75px;
+}
+
+.edit-profile-button {
+  position: absolute;
+  top: 75px;
+  right: 10px;
+}
+
+.edit-profile-bio-button {
+  position: absolute;
+  top: 120px;
+  right: 10px;
+}
