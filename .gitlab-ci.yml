@@ -13,4 +13,4 @@ pages:
   only:
     - master
 variables:
-  PUBLIC_URL: "/assessment---kwitter-frontend"
+  PUBLIC_URL: "/assessment-klutter-frontend-portfolio"

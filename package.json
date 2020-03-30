@@ -1,7 +1,7 @@
 {
   "name": "kwitter",
   "version": "0.1.0",
-  "homepage": "https://sirampr.gitlab.io/assessment---kwitter-frontend/",
+  "homepage": "https://jndetke.gitlab.io/assessment-klutter-frontend-portfolio/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.2.5",
